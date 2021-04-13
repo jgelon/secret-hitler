@@ -55,32 +55,44 @@ const Defaultmid = ({ version, readPatchNotes, quickDefault, userInfo }) => (
 				default game
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Uther" className="loginquick">
-				Uther
+			<button style={{ padding: '5px', width: '80px' }} data-name="Rose" className="loginquick">
+				Rose
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Jaina" className="loginquick">
-				Jaina
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerA" className="loginquick">
+				SpelerA
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Rexxar" className="loginquick">
-				Rexxar
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerB" className="loginquick">
+				SpelerB
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Malfurian" className="loginquick">
-				Malfurian
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerC" className="loginquick">
+				SpelerC
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Thrall" className="loginquick">
-				Thrall
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerD" className="loginquick">
+				SpelerD
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Valeera" className="loginquick">
-				Valeera
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerE" className="loginquick">
+				SpelerE
 			</button>
 			<br />
-			<button style={{ padding: '5px', width: '80px' }} data-name="Anduin" className="loginquick">
-				Anduin
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerF" className="loginquick">
+				SpelerF
+			</button>
+			<br />
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerG" className="loginquick">
+				SpelerG
+			</button>
+			<br />
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerH" className="loginquick">
+				SpelerH
+			</button>
+			<br />
+			<button style={{ padding: '5px', width: '80px' }} data-name="SpelerI" className="loginquick">
+				SpelerI
 			</button>
 			<br />
 			<button style={{ padding: '5px', width: '80px' }} data-name="aaa" className="loginquick">
